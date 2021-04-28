@@ -26,8 +26,9 @@
 -Rails
 -SQL
 
+
 ​
--You can deploy this project forking it on GitHub and then going to:
+### You can deploy this project forking it on GitHub and then going to:
 
 ->Repository
 
@@ -40,6 +41,7 @@
 ->Save
 
 ​
+
 👤 **Authors**
 
 👤 **Amal Hersi**
