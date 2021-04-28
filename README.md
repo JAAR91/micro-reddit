@@ -19,6 +19,7 @@
 ### Install
 
 -bundler install
+-run rails db:migrate to build the tables on the database
 
 ### Build With
 
