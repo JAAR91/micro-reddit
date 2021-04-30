@@ -8,42 +8,41 @@
 
 ### Prerequisites
 
--Windows, Mac or Linux machine 
+- Windows, Mac or Linux machine 
 
--Web browser other than Internet Explorer
+- Web browser other than Internet Explorer
 
 ### Setup
 
--Rails Console to run it
+- Rails Console to run it
 
 ### Install
 
--bundler install
--run rails db:migrate to build the tables on the database
+- bundler install
+- run rails db:migrate to build the tables on the database
 
 ### Build With
 
--Ruby 
--Rails
--SQL
+- Ruby 
+- Rails
+- SQL
 
 
 ​
 ### You can deploy this project forking it on GitHub and then going to:
 
-->Repository
+- Repository
 
-->Settings
+- Settings
 
-->GitHub Pages
+- GitHub Pages(Select source)
 
-(Select source)
-
-->Save
+- Save
 
 ​
 
 👤 **Authors**
+
 
 👤 **Amal Hersi**
 
@@ -54,8 +53,11 @@
 - LinkedIn: [Amal Hersi](https://www.linkedin.com/in/amal-hersi-a29583205/)
 
 👤 **Jose Alberto Arriaga Ramos**
+
 - GitHub: [@jaarkira](https://github.com/jaarkira )
+
 - Twitter: [@91_jaar](https://twitter.com/91_jaar )
+
 - LinkedIn: [Jose Arriaga](https://www.linkedin.com/in/jose-arriaga-63a851204/)
 ​
 
